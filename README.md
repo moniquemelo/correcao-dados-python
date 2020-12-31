@@ -37,8 +37,8 @@ Implementar funções para validar a recuperação do banco de dados. Todas essa
         a) Uma função que imprime a lista com todos os nomes dos produtos, ordenados primeiro por 
         categoria em ordem alfabética e ordenados por id em ordem crescente. 
        
-        b) Uma função que calcula qual é o valor total do estoque por categoria, ou seja, a soma do valor 
-        de todos os produtos em estoque de cada categoria, considerando a quantidade de cada produto.
+        b) Uma função que calcula qual é o valor total do estoque por categoria (a soma do valor 
+        de todos os produtos em estoque de cada categoria, considerando a quantidade de cada produto).
 
 ### SAÍDA:
 - Um arquivo chamado ‘resolucao.py’ contendo o código fonte de toda a implementação. 
