@@ -38,8 +38,6 @@ Implementar funções para validar a recuperação do banco de dados. Todas essa
 
     b) Uma função que calcula qual é o valor total do estoque por categoria, ou seja, a soma do valor de todos os produtos em estoque de cada categoria, considerando        a quantidade de cada produto.
 
-Essas funções também devem estar no arquivo ‘resolucao.py’.
-
 ### SAÍDA:
 - Um arquivo chamado ‘resolucao.py’ contendo o código fonte de toda a implementação. 
 - Um arquivo chamado ‘saida.json’ contendo a resposta da execução do algoritmo.
