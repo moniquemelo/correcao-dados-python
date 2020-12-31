@@ -21,22 +21,22 @@ Banco de dados corrompido: https://gitlab.com/snippets/1818996
 Criar uma função para ler o arquivo broken-database.json e criar três funções para percorrer o banco de dados corrompido e corrigir os três erros descritos anteriormente, além de uma função para exportar um arquivo .json com a saída.
 Portanto serão 5 funções:
 
-    a) Ler o arquivo Json;
+        a) Ler o arquivo Json;
 
-    b) Corrigir nomes;
+        b) Corrigir nomes;
 
-    c) Corrigir preços;
+        c) Corrigir preços;
 
-    d) Corrigir quantidades;
+        d) Corrigir quantidades;
 
-    e) Exportar um arquivo JSON com o banco corrigido;
-
+        e) Exportar um arquivo JSON com o banco corrigido;
+    
 2. Validação do banco de dados corrigido:
 Implementar funções para validar a recuperação do banco de dados. Todas essas funções deverão ter como input o banco de dados corrigido na Etapa 1. As funções de validação são:
 
-    a) Uma função que imprime a lista com todos os nomes dos produtos, ordenados primeiro por categoria em ordem alfabética e ordenados por id em ordem crescente.            Obs: é apenas uma saída, ordenada pelos dois fatores citados acima.
+        a) Uma função que imprime a lista com todos os nomes dos produtos, ordenados primeiro por categoria em ordem alfabética e ordenados por id em ordem crescente.            Obs: é apenas uma saída, ordenada pelos dois fatores citados acima.
 
-    b) Uma função que calcula qual é o valor total do estoque por categoria, ou seja, a soma do valor de todos os produtos em estoque de cada categoria, considerando        a quantidade de cada produto.
+        b) Uma função que calcula qual é o valor total do estoque por categoria, ou seja, a soma do valor de todos os produtos em estoque de cada categoria,                      considerando a quantidade de cada produto.
 
 ### SAÍDA:
 - Um arquivo chamado ‘resolucao.py’ contendo o código fonte de toda a implementação. 
